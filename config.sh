@@ -10,8 +10,8 @@ ROM_NAME="PixelExtended"
 ANDROID_VERSION="12"
 REPO_URL="https://github.com/PixelExtended/manifest"
 REPO_BRANCH="snow"
-MANIFEST_URL=""
-MANIFEST_BRANCH=""
+MANIFEST_URL="https://github.com/ArhamDharewa/local_manifests"
+MANIFEST_BRANCH="main"
 
 #Build - Requierd 
 DEVICE_CODENAME="mojito"
@@ -32,7 +32,7 @@ GH_USERNAME=""
 GH_REPO=""
 
 #SourceForge - Optional
-SF_USER="zaxismxt"
+SF_USER=""
 SF_PASS=""
 SF_PROJECT=""
 SF_PATH=""
